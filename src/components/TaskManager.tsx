@@ -4,6 +4,9 @@ import "./TaskManager.css";
 
 // TODO: create custom hook to manage task state
 
+  
+import "./TaskManager.css";
+
 interface Task {
   id: string;
   title: string;
